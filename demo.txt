@@ -1,5 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Some text here version change
 some more text here
 =======
 >>>>>>> parent of 4c32df2... new version
+=======
+Some text here version change
+some more text here
+>>>>>>> aa4d2961cd59c43e272c78d17ce1c0b4e70d19f6
